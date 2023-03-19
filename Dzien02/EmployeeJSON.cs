@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
+using Newtonsoft.Json;
 
 namespace Dzien02
 {
@@ -15,6 +17,7 @@ namespace Dzien02
         public bool? IsManager { get; set; }
         public List<int> AccesRooms { get; set; }
         public DateTime? StartAt { get; set; }
+        [JsonIgnore]
         public List<string> ExtraData { get; set; }
 
         private string Token;

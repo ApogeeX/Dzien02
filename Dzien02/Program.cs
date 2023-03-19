@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            JSONSerializer1.Create();
+            //JSONSerializer1.Create();
+            JSONSerializer1.NBP();
         }
     }
 }
