@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dzien02", "Dzien02\Dzien02.csproj", "{6D7DB8D8-F038-48ED-A74B-9C787930EB60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacja", "Dzien02\Serializacja.csproj", "{6D7DB8D8-F038-48ED-A74B-9C787930EB60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
