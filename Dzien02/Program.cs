@@ -10,6 +10,7 @@ namespace Dzien02
     {
         static void Main(string[] args)
         {
+            BinarySerializer.Create();
         }
     }
 }
